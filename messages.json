@@ -1,10 +1,16 @@
 [
   {
-    "id" : 1,
+    "id" : 2,
     "bundleId" : "DonjaMedia.DonjaWeatherApp",
     "title" : "App Alert",
-    "text" : "Warning: There is a new bug in the application that we are currently resolving",
-    "confirmLabel" : "OK"
+    "text" : "Warning: There is a new bug in Your version of the application that we are currently resolving",
+    "confirmLabel" : "OK",
+    "osVersions" : ["17.0.1"],
+    "appVersions" : ["1.0"],
+    "link" : {
+      "title" : "More Information",
+      "url" : " "http://www.donjamedia.com"
+    }
   }
   
 ]
