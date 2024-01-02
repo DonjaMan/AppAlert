@@ -1,0 +1,10 @@
+[
+  {
+    "id" : 1,
+    "bundleId" : "DonjaMedia.DonjaWeatherApp",
+    "title" : "App Alert",
+    "text" : "Warning: There is a new bug in the application that we are currently resolving",
+    "confirmLabel" : "OK"
+  }
+  
+]
